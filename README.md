@@ -2,8 +2,7 @@
 
 - Odi Dewangga Yohanes
 <<<<<<< HEAD
-- Fasa 
+- Vasa Alvi Amadea 
 - Irfan Halim
 =======
-- Fasa
 >>>>>>> 038375b (test)
